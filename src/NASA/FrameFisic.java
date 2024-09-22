@@ -25,7 +25,7 @@ public class FrameFisic extends JFrame {
 
         add(panell, BorderLayout.CENTER);
 
-        setSize(500, 300);
+        setSize(700, 500);
         setLocationRelativeTo(null);
         setResizable(false);
 
